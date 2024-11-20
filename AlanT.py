@@ -1,4 +1,5 @@
 # Niumar Girardi
+# Luiz Gustavo
 
 def resumo():
     mensagem = "Alan Turing (1912-1954) foi um matemático britânico que revolucionou a ciência e a tecnologia. Ele é famoso por desenvolver o conceito de uma máquina teórica, a máquina de Turing, que definiu como computadores podem resolver problemas usando algoritmos. Durante a Segunda Guerra Mundial, Turing teve um papel crucial ao ajudar a decifrar os códigos da máquina Enigma, utilizada pelos nazistas, trabalho que contribuiu para encurtar a guerra e salvar milhões de vidas. Apesar de suas conquistas, ele enfrentou grande discriminação por ser homossexual, algo considerado crime na Inglaterra da época. Em 1952, foi condenado e submetido a um tratamento químico degradante. Dois anos depois, morreu em circunstâncias suspeitas, oficialmente registradas como suicídio. Hoje, é lembrado como um dos maiores gênios da história e símbolo da luta por justiça e igualdade."
